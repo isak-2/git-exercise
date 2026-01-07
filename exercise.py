@@ -11,11 +11,12 @@ def calculate_sum(a: int, b: int) -> int:
     두 정수의 합을 반환합니다.
 
     Args:
-        a: 첫 번째 정수
+        a: 첫 번째 정수 
         b: 두 번째 정수
 
     Returns:
         두 정수의 합
+        
 
     Example:
         >>> calculate_sum(1, 2)
@@ -23,8 +24,9 @@ def calculate_sum(a: int, b: int) -> int:
         >>> calculate_sum(-1, 1)
         0
     """
+    sum = a + b
     # TODO: 두 수의 합을 반환하는 코드를 작성하세요
-    pass
+    return sum 
 
 
 def calculate_average(numbers: list) -> float:
