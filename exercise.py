@@ -4,7 +4,7 @@ Git 워크플로우 실습 - 기본 함수 구현하기
 이 파일의 TODO 부분을 완성하고, VSCode에서 Git을 사용해
 변경사항을 커밋하고 Push 해보세요!
 """
-test_variable = "This is a test variable."
+test_variable2 = "This is a test variable."
 
 def calculate_sum(a: int, b: int) -> int:
     """
